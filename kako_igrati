@@ -1,0 +1,10 @@
+VISLICE
+
+Ugibajte črke slovenske abecede, za katere menite, da se pojavijo v iskani besedi. Ugibate tako, da v vnosno polje
+vnesete črko in nato s pritiskom na Enter ali na gumb Ugibaj preverite, če je črka v besedi.
+Na voljo imate le omejeno število poskusov.
+
+Če želite shraniti igro, to storite s klikom na Datoteka, Shrani. Shranite lahko le eno igro. Igro nadaljujete
+tako, da jo odprete s klikom na Datoteka, Odpri.
+
+Če želite dodati več besed, uredite datoteko seznam_besed.txt. Program pri vsaki igri naključno izbere besedo iz te datoteke.
